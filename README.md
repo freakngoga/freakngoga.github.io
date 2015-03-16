@@ -1,3 +1,3 @@
-# freakngoga.github.io
+##Personal Resumé of Ryan Anklam
 
-hey man what is this
+I have taken this project and made it into an OSS project called jsonumé.  The repository can be viewed at: https://github.com/bittersweetryan/jsonme
