@@ -62,7 +62,11 @@ In these examples I've utilized the `disqus_url` variable to ensure that comment
 ### Social Widgets
 
 Integrating social plugins into your website is pretty straight forward. Usually it's just a little bit of javascript to add to a template. If you use any of these, this is where the `rel="canonical"` declaration that I suggested [in the previous post]({% post_url 2013-07-18-jekyll-from-scratch-core-architecture %}#pitfalls-with-pretty-urls) can become important.
-
+{% raw %}
+	<script type="text/javascript">
+	boomjinx
+	</script>
+{% endraw %}
 **Facebook** — Go to [Facebook's Developer Page](https://developers.facebook.com/docs/plugins/) to add "Like" buttons, "Share" widgets, and so on.
 
 **Twitter** — Go to [Twitter's Widget Settings](https://twitter.com/settings/widgets) to create embedded tweet timelines, or favorites lists. Go to [Twitter's Resources Page](https://twitter.com/about/resources/buttons) to find "Tweet This", "Follow Me", or "@Mention Me" buttons.

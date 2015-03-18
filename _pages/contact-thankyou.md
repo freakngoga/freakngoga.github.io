@@ -10,5 +10,5 @@ noindex:   true
 
 ### Your Message Has Been Sent
 
-Thank you for reaching out to us. We will try to get back to you within one to two business days.
+Thank you for reaching out to me. I will try to get back to you within one to two business days.
 
