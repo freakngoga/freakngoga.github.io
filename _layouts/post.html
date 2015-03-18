@@ -5,6 +5,15 @@ layout: default
 {{ content }}
 </div>
 
+ {{ "{% if page.comments " }}%} 
+<hr/>
+<h2>Comments</h2>
+<div class="fb-comments" data-href="{{ "{{ site.url " }}}}{{ "{{ page.url " }}}}" data-numposts="5" data-colorscheme="light"></div>
+{{ "{% endif"}}%}
+    
+    
+  {{ content }}
+
 <div id="related">
   <h2>Related Posts</h2>
   <ul class="posts">
